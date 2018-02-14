@@ -17,7 +17,6 @@ function inc(n) {
   return n++
 }
 
-function dec(n) {return n-1}{
-var num = parseInt(n, 10)
-return num--
+function dec(n) {
+  return n - 1
 }
